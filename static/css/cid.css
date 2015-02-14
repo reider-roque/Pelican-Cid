@@ -409,6 +409,13 @@ body {
       color: #c7254e;
       background-color: #f9f2f4;
       border-radius: 4px; }
+    .container .post table, .container .post td {
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid #c8c8c8;
+      border-top: 1px solid #c8c8c8;
+      border-collapse: collapse;
+      padding-right: 1em; }
     .container .post .highlight {
       font-size: 0.9em;
       overflow-x: auto; }
